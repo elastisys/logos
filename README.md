@@ -15,6 +15,13 @@ Color  |![](https://github.com/elastisys/logos/blob/main/svg/blue/logo%20blue%20
 black  |![](https://github.com/elastisys/logos/blob/main/svg/black/Black%20logo%201x.svg)|![](https://github.com/elastisys/logos/blob/main/svg/black/Black%20logo%202x%20(4).svg)| ![](https://github.com/elastisys/logos/blob/main/svg/black/Black%20logo%201x%20(2).svg)
 white  |![](https://github.com/elastisys/logos/blob/main/svg/white/White%20logo%201x.svg)|![](https://github.com/elastisys/logos/blob/main/svg/white/White%20logo%202x%20(4).svg)|![](https://github.com/elastisys/logos/blob/main/svg/white/White%20logo%201x%20(2).svg)
 
+Other | | | | 
+------ |------ |------ |
+---|SVG| PNG 
+Color  |![](https://github.com/elastisys/logos/blob/main/svg/blue/logo%20blue%20text%201x.svg)|![](https://github.com/elastisys/logos/blob/main/png/blue/Group%2074%20(1).png)
+black  |![](https://github.com/elastisys/logos/blob/main/svg/black/Group%2077.svg)|![](https://github.com/elastisys/logos/blob/main/png/black/Group%2077.png)
+white  |![](https://github.com/elastisys/logos/blob/main/svg/white/Group%2076.svg)|![](https://github.com/elastisys/logos/blob/main/png/white/Group%2076.png)
+
 
 
 
