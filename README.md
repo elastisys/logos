@@ -1,11 +1,11 @@
 # logos
 In this repo, we have the logos for Elastisys Ck8s. 
 
-PNG | 
+PNG | | | | 
 ------ |------ |------ |------ | 
-|Horozontal | Stacked | Icon
+|Horizontal | Stacked | Icon
 --- | --- | --- | 
-Color  | ![](Key-A.png)
+Color  | ![]()
 black  |
 white  |
 
