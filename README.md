@@ -21,7 +21,7 @@ Other | | | |
 ------ |------ |------ |------ |
 ---|SVG| PNG 
 Color  |<img src="https://github.com/elastisys/logos/blob/main/svg/blue/Group%2074%20(1).svg" width="200">|<img src="https://github.com/elastisys/logos/blob/main/png/blue/Group%2074%20(1).png" width="200">
-black  |<img src="https://github.com/elastisys/logos/blob/main/svg/black/Group%2077.svg" width="200">|<img src="https://github.com/elastisys/logos/blob/main/png/black/Group%2077.png)
+black  |<img src="https://github.com/elastisys/logos/blob/main/svg/black/Group%2077.svg" width="200">|<img src="https://github.com/elastisys/logos/blob/main/png/black/Group%2077.png" width="200">
 white  |<img src="https://github.com/elastisys/logos/blob/main/svg/white/Group%2076.svg" width="200">|<img src="https://github.com/elastisys/logos/blob/main/png/white/Group%2076.png" width="200">
 
 
