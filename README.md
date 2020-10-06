@@ -5,8 +5,8 @@ PNG | | | |
 ------ |------ |------ |------ | 
 ---|Horizontal | Stacked | Icon
 Color  |![](https://github.com/elastisys/logos/blob/main/png/blue/logo%20blue%20text%201x.png?raw=true)|![](https://github.com/elastisys/logos/blob/main/png/blue/Blue%20logo%202x%20(1).png?raw=true)| ![](https://github.com/elastisys/logos/blob/main/png/blue/logo%20blue%201x.png?raw=true)| 
-black  |
-white  |
+black  |![](https://github.com/elastisys/logos/blob/main/png/black/logo%20black%20text%201x.png?raw=true)|![](https://github.com/elastisys/logos/blob/main/png/black/Black%20logo%202x%20(1).png?raw=true)| ![](https://github.com/elastisys/logos/blob/main/png/black/logo%20black%201x%20(1).png?raw=true)
+white  |![](https://github.com/elastisys/logos/blob/main/png/white/logo%20white%20text%201x.png?raw=true)|![](https://github.com/elastisys/logos/blob/main/png/white/White%20logo%202x%20(1).png?raw=true)|![](https://github.com/elastisys/logos/blob/main/png/white/logo%20white%201x%20(2).png?raw=true)
 
 
 
