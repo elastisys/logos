@@ -11,9 +11,9 @@ white  |![](https://github.com/elastisys/logos/blob/main/png/white/logo%20white%
 SVG | | | | 
 ------ |------ |------ |------ |
 ---|Horizontal | Stacked | Icon
-Color  |![](https://github.com/elastisys/logos/blob/main/svg/blue/logo%20blue%20text%201x.svg?raw=true)|![]()| ![]()| 
-black  |![]()|![]()| ![]()
-white  |![]()|![](https://github.com/elastisys/logos/blob/main/svg/white/White%20logo%202x%20(4).svg)|![]()
+Color  |![](https://github.com/elastisys/logos/blob/main/svg/blue/logo%20blue%20text%201x.svg?raw=true)|![](https://github.com/elastisys/logos/blob/main/svg/blue/Blue%20logo%202x%20(4).svg)| ![](https://github.com/elastisys/logos/blob/main/svg/blue/Blue%20logo%201x.svg)| 
+black  |![](https://github.com/elastisys/logos/blob/main/svg/black/Black%20logo%201x.svg)|![](https://github.com/elastisys/logos/blob/main/svg/black/Black%20logo%202x%20(4).svg)| ![](https://github.com/elastisys/logos/blob/main/svg/black/Black%20logo%201x%20(2).svg)
+white  |![](https://github.com/elastisys/logos/blob/main/svg/white/White%20logo%201x.svg)|![](https://github.com/elastisys/logos/blob/main/svg/white/White%20logo%202x%20(4).svg)|![](https://github.com/elastisys/logos/blob/main/svg/white/White%20logo%201x%20(2).svg)
 
 
 
